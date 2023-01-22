@@ -774,8 +774,8 @@
                         </div>
                     </div>
                     <div class="flex-icon">
-                        <a href="#" class="soc-footer w-inline-block"><img src="{{ asset('theme/images/icon-linkedin.svg') }}" loading="lazy" alt=""></a>
-                        <a href="#" class="soc-footer w-inline-block"><img src="{{ asset('theme/images/akar-icons_twitter-fill.svg') }}" loading="lazy" alt=""></a>
+                        <a href="https://www.linkedin.com/in/gulf-meta-824376255/" class="soc-footer w-inline-block"><img src="{{ asset('theme/images/icon-linkedin.svg') }}" loading="lazy" alt=""></a>
+                        <a href="https://twitter.com/gulf_meta" class="soc-footer w-inline-block"><img src="{{ asset('theme/images/akar-icons_twitter-fill.svg') }}" loading="lazy" alt=""></a>
                         <a href="#" class="soc-footer w-inline-block"><img src="{{ asset('theme/images/ant-design_instagram-filled.svg') }}" loading="lazy" alt=""></a>
                     </div>
                 </div>
